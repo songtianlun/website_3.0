@@ -7,7 +7,7 @@ This pages based on [uxiaohan.github.io](https://github.com/uxiaohan/uxiaohan.gi
 ## Contact me
 
  - Blog: <https://blog.frytea.com>
- - HomePage: <https://home.frytea.com>
+ - HomePage: <https://www.frytea.com>
  - E-mail: <songtianlun@frytea.com>
  - WebChart/Phone: (+86)18803979433
  - Google Voice: (+1)936-6662109
